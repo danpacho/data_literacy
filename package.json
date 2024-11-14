@@ -1,0 +1,17 @@
+{
+  "name": "data_literacy",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Danpa_cho",
+  "license": "ISC",
+  "dependencies": {
+    "json2csv": "6.0.0-alpha.2",
+    "xlsx": "^0.18.5"
+  }
+}
